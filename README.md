@@ -4,7 +4,6 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🌱 긍정적으로 일을 하는 개발자  
   
@@ -14,15 +13,6 @@
 
 - ⚡한 번 시작한 일은 끝까지 해내는 끈기를 가진 성실한 개발자  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
